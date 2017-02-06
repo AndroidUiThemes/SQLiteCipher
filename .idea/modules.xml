@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SQLCipherExamples.iml" filepath="$PROJECT_DIR$/SQLCipherExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLiteCipher.iml" filepath="$PROJECT_DIR$/SQLiteCipher.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
